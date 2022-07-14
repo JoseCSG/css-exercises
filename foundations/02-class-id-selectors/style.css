@@ -1,0 +1,20 @@
+.normal
+{
+    background-color: rgb(228, 139, 165);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.normal.bigger
+{
+    font-size: 24px;
+}
+#second
+{
+    color: rgb(4, 71, 196);
+    font-size: 36px;
+}
+#fourth
+{
+    background-color: rgb(188, 255, 175);
+    font-size: 24px;
+    font-weight: 700;
+}
